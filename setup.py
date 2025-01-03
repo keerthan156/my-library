@@ -4,7 +4,7 @@ setup(
     name="my-library",  # Replace with your library name
     version="0.1.0",
     author="keerthan",
-    author_email="keerthan",
+    author_email="keerthankeerthi32@gmail.com",
     description="A sample Python library for demonstration",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
