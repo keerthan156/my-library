@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="my-library",  # Replace with your library name
+    name="keerthan-library",  # Replace with your library name
     version="0.1.0",
     author="keerthan",
     author_email="keerthankeerthi32@gmail.com",
