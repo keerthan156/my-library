@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="keerthan-library",  # Replace with your library name
-    version="0.1.0",
+    version="0.1.1",
     author="keerthan",
     author_email="keerthankeerthi32@gmail.com",
     description="A sample Python library for demonstration",
